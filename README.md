@@ -1,6 +1,6 @@
 # Jupyter-Notebook_-GPS-Spoofing-and-Jamming-Detection-in-Drone-Flight-Using-Machine-Learning
 
-# 드론 공격 탐지 모델 개발 (GPS 재밍 및 스푸핑)
+# 드론 공격 탐지 모델 개발 
 
 ## 개요
 이 프로젝트는 드론의 GPS 재밍(Jamming)과 스푸핑(Spoofing) 공격을 탐지하는 머신러닝 모델을 개발하는 방법을 보여줍니다. 드론 비행 중 수집된 다양한 GPS 관련 데이터를 사용하여 드론 공격을 탐지하고, 이를 "공격"과 "비공격"으로 분류한다.
